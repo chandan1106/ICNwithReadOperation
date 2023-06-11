@@ -1,0 +1,3 @@
+ xorg-x11-bin, xorg-x11-bin-dlls,
+xorg-x11-devel, xorg-x11-libs-data, xorg-x11-etc
+and also : gcc, gcc-g++, gawk, tar, gzip, make, patch, perl, w32api
